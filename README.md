@@ -4,7 +4,7 @@ Este repositorio contiene dos aplicaciones de línea de comandos desarrolladas e
 
 ## Aplicación 1: Removedor de Fondo en Lote
 
-La primera aplicación, `batch_background_remover.py`, es una herramienta de procesamiento en lote que elimina el fondo de múltiples imágenes en una carpeta de entrada y guarda las imágenes resultantes en una carpeta de salida. Así es cómo se utiliza la aplicación:
+La primera aplicación, `quita_fondo_carpetas.py`, es una herramienta de procesamiento en lote que elimina el fondo de múltiples imágenes en una carpeta de entrada y guarda las imágenes resultantes en una carpeta de salida. Así es cómo se utiliza la aplicación:
 
 
 Donde:
@@ -13,7 +13,7 @@ Donde:
 
 ## Aplicación 2: Removedor de Fondo para una Sola Imagen
 
-La segunda aplicación, `single_image_background_remover.py`, es una utilidad para eliminar el fondo de una sola imagen proporcionada como argumento en la línea de comandos. Así es cómo se utiliza la aplicación:
+La segunda aplicación, `quita_fondo.py`, es una utilidad para eliminar el fondo de una sola imagen proporcionada como argumento en la línea de comandos. Así es cómo se utiliza la aplicación:
 
 
 Donde:
