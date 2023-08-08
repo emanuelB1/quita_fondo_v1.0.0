@@ -28,7 +28,7 @@ Asegúrate de tener las siguientes bibliotecas instaladas antes de ejecutar las 
 - `rembg`
 - `PIL`
 - Python
-- 
+  
 ## Como usar
 - Abrir terminal en la ruta de la aplicacion que quieres usar y ejecutar: python quita_fondo.py
 ## Nota
